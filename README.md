@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center" >
     <a href="https://www.codewars.com/users/ask_generator">
-      <img src="https://github.r2v.ch/codewars?user=USERNAME" />
+      <img src="[https://github.r2v.ch/codewars?user=USERNAME](https://github.r2v.ch/codewars?user=ask_generator&stroke=blue" />
     </a>
 </p>
