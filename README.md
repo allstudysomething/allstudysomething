@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=ask_generator&stroke=green&hide_clan=true&name=true&top_languages=true&theme=gradient_midnight_puple)
+[![Codewars](https://github.r2v.ch/codewars?user=ask_generator&stroke=green&hide_clan=true&name=true&top_languages=true&theme=gradient_midnight_puple)](https://www.codewars.com/users/ask_generator)
 
 <p align="center" >
-    <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/ask_generator)">
+    <a href="https://www.codewars.com/users/ask_generator">
       <img src="https://github.r2v.ch/codewars?user=USERNAME" />
     </a>
 </p>
